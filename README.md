@@ -1,2 +1,2 @@
 # Repositorio Personal de Javiera Bascur
-contacto: javiera.bascur@uc.cl
+Contacto: javiera.bascur@uc.cl
